@@ -1,4 +1,4 @@
-# Object Oriented Analysis And Design Using UML (1DV607). Private workshop fortfolio
+# [Object Oriented Analysis And Design Using UML (1DV607). Private workshop portfolio](https://coursepress.lnu.se/kurs/objektorienterad-analys-och-design-med-uml/workshops-2/workshop-1-domain-modeling/)
 
 
 ## [Workshop 1 - Domain Modeling](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-1)
@@ -18,7 +18,7 @@
 ### Content
 
 
-## [Workshop 3 - Design Using Patterns]()https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3
+## [Workshop 3 - Design Using Patterns](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3)
 
 ## Contributors
 * [Paulius Zukas](https://github.com/paulius1994zukas)
