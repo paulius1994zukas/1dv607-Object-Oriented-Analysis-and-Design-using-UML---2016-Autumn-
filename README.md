@@ -7,8 +7,7 @@
 * Paulius Zukas
 
 ### Content
-* [Domain Model for workshop 1, grade 2 (first submission)](Workshop 1 - Domain Modeling/UML_grade2-first.png)
-* [Image on final UML for workshop 1, grade 2](Workshop 1 - 1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/Workshop-1/Workshop 1(Domain Model) first submission.png)
+* [Domain Model for workshop 1, grade 2 (first submission)](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/Workshop%201(Domain%20Model)%20first%20submission.png?raw=true)
 
 
 ##Workshop 2 - Design
