@@ -8,7 +8,10 @@
 
 ### Content
 * [Domain Model for workshop 1, grade 2 (first submission)](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/Workshop%201(Domain%20Model)%20first%20submission.png)
-
+* [Reveived Peer Review Protocols](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-1/Received-Peer-Review-Protocol)
+* [Sent Peer Review Protocols](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-1/Sent-Peer-Review-Protocol)
+* [Changes document](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/Changes.txt)
+* [UPDATED Domain model](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/%5BUPDATED%5D%20Workshop%201(Domain%20Model)%20first%20submission.png)
 
 ## [Workshop 2 - Design](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-2)
 
