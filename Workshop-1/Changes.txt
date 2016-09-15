@@ -1,1 +1,7 @@
-Write down what changes you make and why
+After reading the feedback from peer I have decided to add some additional things: 
+
+1. Multiplicity - numerical relationship between instances of the classes. 
+2. Changed "RemoveBoats" from function like to logical data, value of an object.
+
+Since I was late with submission I was only able to get that much feedback, thus editing my design even more
+would be rather complicated (wouold argue against myself).
