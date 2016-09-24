@@ -13,12 +13,14 @@
 * [Changes document](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/Changes.txt)
 * [UPDATED Domain model](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/blob/master/Workshop-1/%5BUPDATED%5D%20Workshop%201(Domain%20Model)%20first%20submission.png)
 
+
 ## [Workshop 2 - Design](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-2)
 
 ## Contributors
 * [Paulius Zukas](https://github.com/paulius1994zukas)
 
 ### Content
+* [Diagrams](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-2/Diagrams)
 
 
 ## [Workshop 3 - Design Using Patterns](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3)
