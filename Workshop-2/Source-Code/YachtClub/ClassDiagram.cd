@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YachtClub.Controller.ControllerClass">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgCAQAAAAAADAEAAAAAAIAAAAACASAAAAAAA=</HashCode>
+      <FileName>Controller\ControllerClass.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MemberRegistry" />
+      <Property Name="Member" />
+      <Property Name="ConsoleView" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="YachtClub.Model.Boat" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAgBAAAJCAABAAAAABAgAgAAAAAA=</HashCode>
+      <FileName>Model\Boat.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BoatModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YachtClub.Model.Member" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAoAAAAAAAiAAAAAFAAAUCAARAAAAAAAAAgAAAACA=</HashCode>
+      <FileName>Model\Member.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YachtClub.Model.MemberRegistry">
+    <Position X="1.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAABAAACAAQAEAAEAACAAAQAAAAA=</HashCode>
+      <FileName>Model\MemberRegistry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YachtClub.Program">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAAAIA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ControllerClass" />
+      <Property Name="Menu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="YachtClub.View.ConsoleView">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAiAAAAAAAACYQAFAABAAAAAASIggAAAAAAAAIDAAA=</HashCode>
+      <FileName>View\ConsoleView.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Menu" />
+      <Property Name="Member" />
+      <Property Name="MemberRegistry" />
+      <Property Name="MenuEvent" />
+      <Property Name="Error" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="YachtClub.View.Menu">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAgAAAAAAAAAAAACAEAAAAAAAAgAAAAAAACAAAAA=</HashCode>
+      <FileName>View\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YachtClub.View.MenuItem">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="YachtClub.Model.BoatModel">
+    <Position X="10.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>Model\Boat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YachtClub.View.MenuEvent">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQgIAgAAEAACAAICAAEAAACQAAAggAAAIAAAAAEAAAA=</HashCode>
+      <FileName>View\ConsoleView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YachtClub.View.Error">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAQAAQAAAAAAAAAAAAEAAAAABAAAAAAAA=</HashCode>
+      <FileName>View\ConsoleView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

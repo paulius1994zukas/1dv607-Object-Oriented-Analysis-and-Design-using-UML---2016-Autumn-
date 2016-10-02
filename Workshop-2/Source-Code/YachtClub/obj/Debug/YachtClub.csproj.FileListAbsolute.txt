@@ -1,0 +1,9 @@
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\bin\Debug\YachtClub.exe.config
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\bin\Debug\YachtClub.exe
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\bin\Debug\YachtClub.pdb
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\obj\Debug\YachtClub.exe
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\obj\Debug\YachtClub.pdb
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\bin\Debug\YachtClub.exe.manifest
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\bin\Debug\YachtClub.application
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\obj\Debug\YachtClub.exe.manifest
+C:\Users\Paulius\Documents\Visual Studio 2015\Projects\YachtClub\YachtClub\obj\Debug\YachtClub.application
