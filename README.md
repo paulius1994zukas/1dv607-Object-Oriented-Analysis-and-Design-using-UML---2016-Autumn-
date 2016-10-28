@@ -32,4 +32,6 @@
 * [Paulius Zukas](https://github.com/paulius1994zukas)
 
 ### Content
-
+* [Source Code](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3/BlackJack)
+* [Diagrams](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3/Diagrams)
+* [Peer Review](https://github.com/paulius1994zukas/1dv607-Object-Oriented-Analysis-and-Design-using-UML---2016-Autumn-/tree/master/Workshop-3/Peer-Review)
