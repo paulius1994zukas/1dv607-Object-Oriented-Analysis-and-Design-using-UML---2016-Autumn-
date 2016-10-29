@@ -1,0 +1,1 @@
+﻿namespace BlackJack.model { interface BlackJObserver { void HasNewCard(); } }

@@ -1,0 +1,1 @@
+﻿namespace BlackJack.model.rules { interface IWinStrategy { int maxScore { get; } bool IsDealerWinner(Dealer theDealer, Player thePlayer); } }
