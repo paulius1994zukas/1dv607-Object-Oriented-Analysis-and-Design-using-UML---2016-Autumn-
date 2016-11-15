@@ -1,0 +1,49 @@
+Review of Paulius Zukas's Modifications of the BlackJack game
+
+These are my interpretations and they could be wrong due to me missing or
+misunderstanding the logic of the implementation
+
+RUNNING THE CODE
+----------------
+
+Due to my Visual Studio having a licence issue right now I could not compile the program. 
+I ran the included .exe version instead.
+
+UML Diagram
+-----------
+
+Drawing reflects the current implementation
+
+UI-CONTROLLER DEPENDENCY
+------------------------
+
+An enum is used and the implementation is good and generic.
+
+SOFT17 IMPLEMENTATION
+---------------------
+
+It is added to the game
+
+WINGAME IMPLEMENTATION
+----------------------
+
+It is added to the game
+
+CODE REFACTORING
+----------------
+
+Code is rewritten in CSharp I assume that this was taken care of at the same time. Not needed dependencies in Interfaces etc. are removed.
+
+OBSERVATION PATTERN
+-------------------
+
+Added
+
+PASSING GRADE:
+--------------
+ 
+A nice and clean implementation that for sure passes grade 2.
+
+/// Christer Hamberg
+
+
